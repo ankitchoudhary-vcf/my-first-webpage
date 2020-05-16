@@ -1,0 +1,763 @@
+<!-- army page -->
+
+				
+<!-- Vertical Gallery -->
+						
+<div class="sub-page swiper-slide" data-hash="defence">
+
+							
+<!-- Page Side bar -->
+							
+<div class="page-side shadow-right">
+								
+<div class="inner-wrapper scrollbar">
+									
+<!-- Side bar title -->
+									
+<div class="sub-page-title">
+							
+<h1 class="mycontainer ">INDIAN ARMY</h1>
+									
+</div>
+				
+<!-- /Side bar title -->
+
+									
+<!-- Side bar image-->
+									
+<img src="assets/img/army.jpg" class="img-responsive hidden-xs" alt="img">
+									
+<!-- /Side bar image -->
+
+							
+<!-- Side bar contents -->
+									
+<div class="mycontainer hidden-xs ">
+										
+<br><p>
+<font color="red">INDIAN ARMY</font>
+<hr>
+The Indian Army is the land-based branch and the largest component of the Indian Armed Forces. The President of India is the Supreme Commander of the Indian Army,[6] and it is commanded by the Chief of Army Staff (COAS), who is a four-star general. Two officers have been conferred with the rank of field marshal, a five-star rank, which is a ceremonial position of great honour. The Indian Army originated from the armies of the East India Company, which eventually became the British Indian Army, and the armies of the princely states, which finally became the national army after independence. The units and regiments of the Indian Army have diverse histories and have participated in a number of battles and campaigns across the world, earning a large number of battle and theatre honours before and after Independence.[7]
+The primary mission of the Indian Army is to ensure national security and national unity, defending the nation from external aggression and internal threats, and maintaining peace and security within its borders. It conducts humanitarian rescue operations during natural calamities and other disturbances, like Operation Surya Hope, and can also be requisitioned by the government to cope with internal threats. It is a major component of national power alongside the Indian Navyand the Indian Air Force.[8] The army has been involved in four wars with neighbouring Pakistan and one with China. Other major operations undertaken by the army include: Operation Vijay, Operation Meghdoot and Operation Cactus. Apart from conflicts, the army has conducted large peace time exercises like Operation Brasstacks and Exercise Shoorveer, and it has also been an active participant in numerous United Nations peacekeeping missions including those in: Cyprus, Lebanon, Congo, Angola, Cambodia, Vietnam, Namibia, El Salvador, Liberia, Mozambique, South Sudan and Somalia.
+The Indian Army has a regimental system, but is operationally and geographically divided into seven commands, with the basic field formation being a division. It is an all-volunteer force and comprises more than 80% of the country's active defence personnel. It is the 2nd largest standing army in the world, with 1,237,117[9][10] active troops and 960,000 reserve troops.[11][12] The army has embarked on an infantry modernisation program known as Futuristic Infantry Soldier As a System (F-INSAS), and is also upgrading and acquiring new assets for its armoured, artillery and aviation branches.
+<br><br>
+<a href="Indian Army.pdf">To Know More about it</a>
+</p>
+</div>
+						
+<!-- /Side bar contents -->
+			
+</div>
+							
+</div>
+							
+<!-- /Page Side bar -->
+
+							
+<!-- Page Contents -->
+							
+<div class="page-container">
+
+								
+<!-- Vertical Gallery thumbnails Carousel -->
+				
+<div id="gal2-thumb-container">
+
+						
+<!-- Vertical Gallery thumbnails -->
+									
+<div id="gal3-thumb-carousel">
+										
+<img src="assets/img/gal3/thumb/01.jpg" alt="image"/>
+			
+<img src="assets/img/gal3/thumb/02.jpg" alt="image"/>
+							
+<img src="assets/img/gal3/thumb/03.jpg" alt="image"/>
+										
+<img src="assets/img/gal3/thumb/04.jpg" alt="image"/>
+										
+<img src="assets/img/gal3/thumb/05.jpg" alt="image"/>
+										
+<img src="assets/img/gal3/thumb/06.jpg" alt="image" />
+										
+<img src="assets/img/gal3/thumb/07.jpg" alt="image"/>
+										
+<img src="assets/img/gal3/thumb/08.jpg" alt="image"/>
+
+<img src="assets/img/gal3/thumb/09.jpg" alt="image"/>
+
+<img src="assets/img/gal3/thumb/10.jpg" alt="image"/>
+									
+</div>
+						
+<!-- /Vertical Gallery thumbnails -->
+
+									
+<a href="#" id="gal3-prev" class="visible-sm visible-xs"><i class="fa fa-angle-up"></i></a>
+									
+<a href="#" id="gal3-next" class="visible-sm visible-xs"><i class="fa fa-angle-down"></i></a>
+								
+</div>
+			
+<!-- /Vertical Gallery thumbnails Carousel -->
+
+								
+<!-- Vertical Gallery Large Images -->
+								
+<div id="gal3-images" class="lazycontainer">
+				
+<div id="gal3-images-wrapper" class="fullscreen-enable inner-wrapper scrollbar">
+
+			
+<!--Image item -->
+
+<a href="assets/img/gal3/large/01.jpg">
+								    		
+<img src="assets/img/gal3/large/01.jpg" alt="image" />
+							    		
+</a>
+							    		
+<!--/Image item -->
+							    		
+<!--Image item -->
+							
+<a href="assets/img/gal3/large/02.jpg">
+								    		
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/02.jpg" alt="img"/>	
+							
+</a>
+							    		
+<!--/Image item -->
+							
+<!--Image item -->
+							    		
+<a href="assets/img/gal3/large/03.jpg">
+	
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/03.jpg" alt="img" height=550 width=400 />	
+					
+</a>
+				
+<!--/Image item -->
+							    		
+<!--Image item -->
+		
+<a href="assets/img/gal3/large/04.jpg">
+								    	
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/04.jpg" alt="img" height=550 width=550/>	
+				
+</a>
+							    		
+<!--/Image item -->
+				
+<!--Image item -->
+		
+<a href="assets/img/gal3/large/05.jpg">
+								    		
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/05.jpg" alt="img"/>	
+					
+</a>
+	
+<!--/Image item -->
+							    		
+<!--Image item -->
+							    		
+<a href="assets/img/gal3/large/06.jpg">
+						
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/06.jpg" alt="img" height=550 width=400 />	
+	
+</a>
+							    		
+<!--/Image item -->
+	<!--Image item -->
+							    		
+<a href="assets/img/gal3/large/07.jpg">
+								    		
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/07.jpg" alt="img"/>	
+				
+</a>
+	
+<!--/Image item -->
+							    		
+<!--Image item -->
+							    		
+<a href="assets/img/gal3/large/08.jpg">
+						
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/08.jpg" alt="img" height=550 width=550/>	
+	
+</a>
+							    		
+<!--/Image item -->
+	
+<!--Image item -->
+							    		
+<a href="assets/img/gal3/large/09.jpg">
+						
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/09.jpg" alt="img" height=550 width=550/>	
+	
+</a>
+							    		
+<!--/Image item --> <!--Image item -->
+							    		
+<a href="assets/img/gal3/large/10.jpg">
+						
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/10.jpg" alt="img"/>	
+	
+</a>
+							    		
+<!--/Image item --> </div>
+</div>
+				
+<!-- /Vertical Gallery Large Images -->
+
+							
+</div>
+
+<!-- /army -->
+	
+<!--navy -->
+
+<!-- Vertical Gallery -->
+						
+<div class="sub-page swiper-slide" data-hash="defence">
+
+							
+<!-- Page Side bar -->
+							
+<div class="page-side shadow-right">
+								
+<div class="inner-wrapper scrollbar">
+									
+<!-- Side bar title -->
+									
+<div class="sub-page-title">
+							
+<h1 class="mycontainer ">INDIAN NAVY</h1>
+									
+</div>
+				
+<!-- /Side bar title -->
+
+									
+<!-- Side bar image-->
+									
+<img src="assets/img/navy.jpg" class="img-responsive hidden-xs" alt="img">
+									
+<!-- /Side bar image -->
+
+							
+<!-- Side bar contents -->
+									
+<div class="mycontainer hidden-xs ">
+										
+<br><p>
+<font color="red">INDIAN NAVY</font>
+<hr>
+The Indian Navy (IN; IAST: Bharatiya Nau Sena) is the naval branch of the Indian Armed Forces. The President of India is the Supreme Commander of the Indian Navy. The Chief of Naval Staff, a four-starAdmiral, commands the navy.
+The Indian Navy traces its origins back to the East India Company's Marine which was founded in 1612 to protect British merchant shipping in the region. In 1793, the East India Company established its rule over eastern part of the Indian subcontinent i.e. Bengal, but it was not until 1830 that the colonial navy was titled as His Majesty's Indian Navy. When India became a republic in 1950, the Royal Indian Navy as it had been named since 1934 was renamed to Indian Navy.
+The primary objective of the navy is to safeguard the nation's maritime borders, and in conjunction with other Armed Forces of the union, act to deter or defeat any threats or aggression against the territory, people or maritime interests of India, both in war and peace. Through joint exercises, goodwill visits and humanitarian missions, including disaster relief, Indian Navy promotes bilateral relations between nations.
+As of 1 July 2017, 67,228 personnel are in service with the Navy.[5][6] As of March 2018, the operational fleet consists of one aircraft carrier, one amphibious transport dock, eight landing ship tanks, 11 destroyers, 13 frigates, one nuclear-powered attack submarine, one ballistic missile submarine, 14 conventionally-powered attack submarines, 22 corvettes, one mine countermeasure vessel, four fleet tankers and various other auxiliary vessels.
+<br><br>
+<a href="Indian Navy.pdf">To Know More about it</a>
+</p>
+</div>
+						
+<!-- /Side bar contents -->
+			
+</div>
+							
+</div>
+							
+<!-- /Page Side bar -->
+
+							
+<!-- Page Contents -->
+							
+<div class="page-container">
+
+								
+<!-- Vertical Gallery thumbnails Carousel -->
+				
+<div id="gal3-thumb-container">
+
+						
+<!-- Vertical Gallery thumbnails -->
+									
+<div id="gal3-thumb-carousel">
+										
+<img src="assets/img/gal3/thumb/01.jpg" alt="image"/>
+			
+<img src="assets/img/gal3/thumb/02.jpg" alt="image"/>
+							
+<img src="assets/img/gal3/thumb/03.jpg" alt="image"/>
+										
+<img src="assets/img/gal3/thumb/04.jpg" alt="image"/>
+										
+<img src="assets/img/gal3/thumb/05.jpg" alt="image"/>
+										
+<img src="assets/img/gal3/thumb/06.jpg" alt="image" />
+										
+<img src="assets/img/gal3/thumb/07.jpg" alt="image"/>
+										
+<img src="assets/img/gal3/thumb/08.jpg" alt="image"/>
+
+<img src="assets/img/gal3/thumb/09.jpg" alt="image"/>
+
+<img src="assets/img/gal3/thumb/10.jpg" alt="image"/>
+<img src="assets/img/gal3/thumb/11.jpg" alt="image"/>
+			
+<img src="assets/img/gal3/thumb/12.jpg" alt="image"/>
+							
+<img src="assets/img/gal3/thumb/13.jpg" alt="image"/>
+										
+<img src="assets/img/gal3/thumb/14.jpg" alt="image"/>
+										
+<img src="assets/img/gal3/thumb/15.jpg" alt="image"/>
+										
+<img src="assets/img/gal3/thumb/16.jpg" alt="image" />
+										
+<img src="assets/img/gal3/thumb/17.jpg" alt="image"/>
+										
+<img src="assets/img/gal3/thumb/18.jpg" alt="image"/>
+
+<img src="assets/img/gal3/thumb/19.jpg" alt="image"/>
+
+<img src="assets/img/gal3/thumb/20.jpg" alt="image"/>
+									
+</div>
+						
+<!-- /Vertical Gallery thumbnails -->
+
+									
+<a href="#" id="gal3-prev" class="visible-sm visible-xs"><i class="fa fa-angle-up"></i></a>
+									
+<a href="#" id="gal3-next" class="visible-sm visible-xs"><i class="fa fa-angle-down"></i></a>
+								
+</div>
+			
+<!-- /Vertical Gallery thumbnails Carousel -->
+
+								
+<!-- Vertical Gallery Large Images -->
+								
+<div id="gal3-images" class="lazycontainer">
+				
+<div id="gal3-images-wrapper" class="fullscreen-enable inner-wrapper scrollbar">
+
+			
+<!--Image item -->
+
+<a href="assets/img/gal3/large/01.jpg">
+								    		
+<img src="assets/img/gal3/large/01.jpg" alt="image" />
+							    		
+</a>
+							    		
+<!--/Image item -->
+							    		
+<!--Image item -->
+							
+<a href="assets/img/gal3/large/02.jpg">
+								    		
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/02.jpg" alt="img"/>	
+							
+</a>
+							    		
+<!--/Image item -->
+							
+<!--Image item -->
+							    		
+<a href="assets/img/gal3/large/03.jpg">
+	
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/03.jpg" alt="img" height=550 width=400 />	
+					
+</a>
+				
+<!--/Image item -->
+							    		
+<!--Image item -->
+		
+<a href="assets/img/gal3/large/04.jpg">
+								    	
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/04.jpg" alt="img" height=550 width=550/>	
+				
+</a>
+							    		
+<!--/Image item -->
+				
+<!--Image item -->
+		
+<a href="assets/img/gal3/large/05.jpg">
+								    		
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/05.jpg" alt="img"/>	
+					
+</a>
+	
+<!--/Image item -->
+							    		
+<!--Image item -->
+							    		
+<a href="assets/img/gal3/large/06.jpg">
+						
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/06.jpg" alt="img" height=550 width=400 />	
+	
+</a>
+							    		
+<!--/Image item -->
+	<!--Image item -->
+							    		
+<a href="assets/img/gal3/large/07.jpg">
+								    		
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/07.jpg" alt="img"/>	
+				
+</a>
+	
+<!--/Image item -->
+							    		
+<!--Image item -->
+							    		
+<a href="assets/img/gal3/large/08.jpg">
+						
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/08.jpg" alt="img" height=550 width=550/>	
+	
+</a>
+							    		
+<!--/Image item -->
+	
+<!--Image item -->
+							    		
+<a href="assets/img/gal3/large/09.jpg">
+						
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/09.jpg" alt="img" height=550 width=550/>	
+	
+</a>
+							    		
+<!--/Image item --> <!--Image item -->
+							    		
+<a href="assets/img/gal3/large/10.jpg">
+						
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/10.jpg" alt="img"/>	
+	
+</a>
+							    		
+<!--/Image item --> 
+<!--Image item -->
+
+<a href="assets/img/gal3/large/11.jpg">
+								    		
+<img src="assets/img/gal3/large/11.jpg" alt="image" />
+							    		
+</a>
+							    		
+<!--/Image item -->
+							    		
+<!--Image item -->
+							
+<a href="assets/img/gal3/large/12.jpg">
+								    		
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/12.jpg" alt="img"/>	
+							
+</a>
+							    		
+<!--/Image item -->
+							
+<!--Image item -->
+							    		
+<a href="assets/img/gal3/large/13.jpg">
+	
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/13.jpg" alt="img" height=550 width=400 />	
+					
+</a>
+				
+<!--/Image item -->
+							    		
+<!--Image item -->
+		
+<a href="assets/img/gal3/large/14.jpg">
+								    	
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/14.jpg" alt="img" height=550 width=550/>	
+				
+</a>
+							    		
+<!--/Image item -->
+				
+<!--Image item -->
+		
+<a href="assets/img/gal3/large/15.jpg">
+								    		
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/15.jpg" alt="img"/>	
+					
+</a>
+	
+<!--/Image item -->
+							    		
+<!--Image item -->
+							    		
+<a href="assets/img/gal3/large/16.jpg">
+						
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/16.jpg" alt="img" height=550 width=400 />	
+	
+</a>
+							    		
+<!--/Image item -->
+	<!--Image item -->
+							    		
+<a href="assets/img/gal3/large/17.jpg">
+								    		
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/17.jpg" alt="img"/>	
+				
+</a>
+	
+<!--/Image item -->
+							    		
+<!--Image item -->
+							    		
+<a href="assets/img/gal3/large/18.jpg">
+						
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/18.jpg" alt="img" height=550 width=550/>	
+	
+</a>
+							    		
+<!--/Image item -->
+	
+<!--Image item -->
+							    		
+<a href="assets/img/gal3/large/19.jpg">
+						
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/19.jpg" alt="img" height=550 width=550/>	
+	
+</a>
+							    		
+<!--/Image item --> <!--Image item -->
+							    		
+<a href="assets/img/gal3/large/20.jpg">
+						
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal3/large/20.jpg" alt="img"/>	
+	
+</a>
+							    		
+<!--/Image item --> </div>
+</div>
+				
+<!-- /Vertical Gallery Large Images -->
+
+							
+</div>
+
+
+
+<!-- /navy -->
+
+<!-- air force -->
+
+<!-- Vertical Gallery -->
+						
+<div class="sub-page swiper-slide" data-hash="defence">
+
+							
+<!-- Page Side bar -->
+							
+<div class="page-side shadow-right">
+								
+<div class="inner-wrapper scrollbar">
+									
+<!-- Side bar title -->
+									
+<div class="sub-page-title">
+							
+<h1 class="mycontainer ">INDIAN AIR FORCE</h1>
+									
+</div>
+				
+<!-- /Side bar title -->
+
+									
+<!-- Side bar image-->
+									
+<img src="assets/img/air force.jpg" class="img-responsive hidden-xs" alt="img">
+									
+<!-- /Side bar image -->
+
+							
+<!-- Side bar contents -->
+									
+<div class="mycontainer hidden-xs ">
+										
+<br><p>
+<font color="red">INDIAN  AIR FORCE</font>
+<hr>
+The Indian Air Force (IAF) is the air armof the Indian armed forces. Its complement of personnel and aircraft assets ranks fourth amongst the airforces of the world.[7] Its primary mission is to secure Indian airspace and to conduct aerial warfare during armed conflict. It was officially established on 8 October 1932 as an auxiliary air force of the British Empirewhich honored India's aviation service during World War II with the prefix Royal.[8] After India gained independence from the United Kingdom in 1947, the name Royal Indian Air Force was kept and served in the name of Dominion of India. With the government's transition to a Republic in 1950, the prefix Royal was removed after only three years.[citation needed]
+Since 1950 the IAF has been involved in four wars with neighboring Pakistan and one with the People's Republic of China. Other major operations undertaken by the IAF include Operation Vijay, Operation Meghdoot, Operation Cactus and Operation Poomalai. The IAF's mission expands beyond engagement with hostile forces, with the IAF participating in United Nations peacekeeping missions.
+The President of India holds the rank of Supreme Commander of the IAF.[9] As of 1 July 2017, 139,576 personnel are in service with the Indian Air Force.[10][11]The Chief of Air Staff, an air chief marshal, is a four-star officer and is responsible for the bulk of operational command of the Air Force. There is never more than one serving ACM at any given time in the IAF. The rank of Marshal of the Air Force has been conferred by the President of India on one occasion in history, to Arjan Singh. On 26 January 2002 Singh became the first and so far, only five-star rank officer of the IAF.[12]
+<br><br>
+<a href="Indian Air Force.pdf">To Know More about it</a>
+</p>
+</div>
+						
+<!-- /Side bar contents -->
+			
+</div>
+							
+</div>
+							
+<!-- /Page Side bar -->
+
+							
+<!-- Page Contents -->
+							
+<div class="page-container">
+
+								
+<!-- Vertical Gallery thumbnails Carousel -->
+				
+<div id="gal2-thumb-container">
+
+						
+<!-- Vertical Gallery thumbnails -->
+									
+<div id="gal2-thumb-carousel">
+										
+<img src="assets/img/gal2/thumb/1.jpg" alt="image"/>
+			
+<img src="assets/img/gal2/thumb/2.jpg" alt="image"/>
+							
+<img src="assets/img/gal2/thumb/3.jpg" alt="image"/>
+										
+<img src="assets/img/gal2/thumb/4.jpg" alt="image"/>
+										
+<img src="assets/img/gal2/thumb/5.jpg" alt="image"/>
+										
+<img src="assets/img/gal2/thumb/6.jpg" alt="image" />
+										
+<img src="assets/img/gal2/thumb/7.jpg" alt="image"/>
+										
+<img src="assets/img/gal2/thumb/8.jpg" alt="image"/>
+
+<img src="assets/img/gal2/thumb/9.jpg" alt="image"/>
+
+<img src="assets/img/gal2/thumb/10.jpg" alt="image"/>
+									
+</div>
+						
+<!-- /Vertical Gallery thumbnails -->
+
+									
+<a href="#" id="gal2-prev" class="visible-sm visible-xs"><i class="fa fa-angle-up"></i></a>
+									
+<a href="#" id="gal2-next" class="visible-sm visible-xs"><i class="fa fa-angle-down"></i></a>
+								
+</div>
+			
+<!-- /Vertical Gallery thumbnails Carousel -->
+
+								
+<!-- Vertical Gallery Large Images -->
+								
+<div id="gal2-images" class="lazycontainer">
+				
+<div id="gal2-images-wrapper" class="fullscreen-enable inner-wrapper scrollbar">
+
+			
+<!--Image item -->
+
+<a href="assets/img/gal2/large/1.jpg">
+								    		
+<img src="assets/img/gal2/large/1.jpg" alt="image" />
+							    		
+</a>
+							    		
+<!--/Image item -->
+							    		
+<!--Image item -->
+							
+<a href="assets/img/gal2/large/2.jpg">
+								    		
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal2/large/2.jpg" alt="img"/>	
+							
+</a>
+							    		
+<!--/Image item -->
+							
+<!--Image item -->
+							    		
+<a href="assets/img/gal2/large/3.jpg">
+	
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal2/large/3.jpg" alt="img" height=550 width=400 />	
+					
+</a>
+				
+<!--/Image item -->
+							    		
+<!--Image item -->
+		
+<a href="assets/img/gal2/large/4.jpg">
+								    	
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal2/large/4.jpg" alt="img" height=550 width=550/>	
+				
+</a>
+							    		
+<!--/Image item -->
+				
+<!--Image item -->
+		
+<a href="assets/img/gal2/large/5.jpg">
+								    		
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal2/large/5.jpg" alt="img"/>	
+					
+</a>
+	
+<!--/Image item -->
+							    		
+<!--Image item -->
+							    		
+<a href="assets/img/gal2/large/6.jpg">
+						
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal2/large/6.jpg" alt="img" height=550 width=400 />	
+	
+</a>
+							    		
+<!--/Image item -->
+	<!--Image item -->
+							    		
+<a href="assets/img/gal2/large/7.jpg">
+								    		
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal2/large/7.jpg" alt="img"/>	
+				
+</a>
+	
+<!--/Image item -->
+							    		
+<!--Image item -->
+							    		
+<a href="assets/img/gal2/large/8.jpg">
+						
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal2/large/8.jpg" alt="img" height=550 width=550/>	
+	
+</a>
+							    		
+<!--/Image item -->
+	
+<!--Image item -->
+							    		
+<a href="assets/img/gal2/large/9.jpg">
+						
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal2/large/9.jpg" alt="img" height=550 width=550/>	
+	
+</a>
+							    		
+<!--/Image item --> <!--Image item -->
+							    		
+<a href="assets/img/gal2/large/10.jpg">
+						
+<img class="lazy" src="assets/img/blueimp-gallery/loading.gif" data-original="assets/img/gal2/large/10.jpg" alt="img"/>	
+	
+</a>
+							    		
+<!--/Image item --> </div>
+</div>
+				
+<!-- /Vertical Gallery Large Images -->
+
+							
+</div>
+
+<!-- /air force -->

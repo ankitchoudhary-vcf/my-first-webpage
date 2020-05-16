@@ -1,0 +1,57 @@
+.ps-container .ps-scrollbar-x-rail {
+    position: absolute; /* please don't change 'position' */
+    bottom: 0px; /* there must be 'bottom' for ps-scrollbar-x-rail */
+    height: 12px;
+}
+
+.ps-container .ps-scrollbar-y-rail {
+    position: absolute; /* please don't change 'position' */
+    right: 0px !important; /* there must be 'right' for ps-scrollbar-y-rail */
+    width: 12px;
+    opacity: 1;
+    top:0 !important;
+    background: #eee;
+}
+.ps-container .ps-scrollbar-x-rail ,.ps-container .ps-scrollbar-y-rail {
+    display: block !important;
+    opacity: 0.6;
+    -webkit-transition: opacity .25s ease;
+       -moz-transition: opacity .25s ease;
+        -ms-transition: opacity .25s ease;
+         -o-transition: opacity .25s ease;
+            transition: opacity .25s ease;
+}
+.ps-container .ps-scrollbar-x-rail:hover ,.ps-container .ps-scrollbar-y-rail:hover {
+    opacity: 1;
+}
+.ps-container .ps-scrollbar-x-rail.remove-scroll ,.ps-container .ps-scrollbar-y-rail.remove-scroll {
+    display: none !important;
+}
+.ps-container .ps-scrollbar-x {
+    position: absolute; /* please don't change 'position' */
+    bottom: 0; /* there must be 'bottom' for ps-scrollbar-x */
+    height: 12px;
+    background-color: #3666af;
+    z-index: 999;
+}
+
+.ps-container.ie6 .ps-scrollbar-x {
+    font-size: 0; /* fixed scrollbar height in xp sp3 ie6 */
+}
+
+
+.ps-container .ps-scrollbar-y {
+    position: absolute; /* please don't change 'position' */
+    right: 0; /* there must be 'right' for ps-scrollbar-y */
+    width: 12px;
+    background-color: #3666af;
+    -o-transition: background-color .2s linear;
+    -webkit-transition: background-color.2s linear;
+    -moz-transition: background-color .2s linear;
+    transition: background-color .2s linear;
+    z-index: 999;
+}
+
+.ps-container.ie .ps-scrollbar-y {
+    font-size: 0; /* fixed scrollbar height in xp sp3 ie6 */
+}

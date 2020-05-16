@@ -1,0 +1,70 @@
+﻿<html>
+
+	<head>	
+
+		<title>Ankit Choudhary</title>	
+        <link rel="shortcut icon" href="assets/img/favicon.jpg" />
+
+			<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+	
+	<script>
+
+		function check()
+			{
+				var a=document.form.username.value;
+				var b=document.form.password.value;
+					if(a=="robort")
+						{
+							if(b=="2.o")
+								{
+									alert("sucessfully login");
+									open("index.html");
+								}
+								else{
+									document.write("incorrect password");
+								}
+						}
+						else{
+							document.write("incorrect username");
+						}
+
+			}
+   	</script>
+
+	</head>
+
+<body style="" background="assets/img/favicon.jpg" >
+
+	
+<!-- Preloader -->
+    
+	<div id="preloader">
+        
+		<div id="text-load" style="top: 100px;transform: matrix(0.8, 0, 0, 0.8, 0, 0);">
+        	
+<!--logo image-->
+        	
+			<img src="assets/img/logo.png" alt="img">
+        	
+<!--/logo image-->
+        	
+<!--Name-->
+            
+			<h2>Ankit choudhary
+				<span id="load-overlay" style="width: 0px;">
+				</span>
+			</h2>
+                
+		</div>
+
+			<form name="form" action="" style="position: absolute;top: 250px;left: 30%;color: #ffffffff;">
+				User name :- <input type="text" name="username" placeholder="Username"><br><br>
+				Password  :- <input type="password" name="password" placeholder="Password"><br><br>
+				<button type="sumbit" onclick="check()" style="left: 200px;position: absolute;">Login</button><br><br>
+				<a href="register.html" style="left: 20px;position: absolute;"><input type="button" value="Register"><br><br></a>
+			</form>
+
+	</div>
+</body>
+
+</html>
